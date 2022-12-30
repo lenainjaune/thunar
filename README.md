@@ -1,3 +1,43 @@
+RO en attente de la fin de migration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # thunar
 Tout sur ce gestionnaire de fichiers par défaut sous XFCE
 
